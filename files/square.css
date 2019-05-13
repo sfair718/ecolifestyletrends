@@ -1,0 +1,11 @@
+.calendar-actions .select_week,
+.calendar-actions .dropdown-menu,
+.PaymentRequestButton,
+.calendar-actions .select-style,
+.calendar-actions .select-style select,
+.calendar-actions .button-style,
+.measurement-option label,
+.measurement-option label:last-child,
+.alert {
+	border-radius: 0 !important;
+}
